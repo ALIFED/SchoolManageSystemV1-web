@@ -1,10 +1,9 @@
-# schoolmanagev1-web
-
-> A Vue.js project
+## 前后端分离项目
+## 前端模块 -> schoolmanagev1-web
+## 技术栈 -> Vue、Vuex、Vue-router、Vue-i18n(前端国际化)、ElementUI、Axios、Mockjs等
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
