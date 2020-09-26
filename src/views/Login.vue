@@ -19,6 +19,7 @@
 <script>
   import Cookie from '@/utils/cookie'
   import { Message } from 'element-ui';
+  import cookie from "../utils/cookie";
   export default {
     name: "Login",
     data: function() {
@@ -67,7 +68,6 @@
     },
     methods: {
       login: function() {
-        console.log(this.count);
         let userInfo = {
           username: this.loginForm.username,
           password: this.loginForm.password

@@ -6,13 +6,12 @@
 
 export default {
   method: '',
-  baseURL: 'http://localhost:8080',
+  baseURL: 'http://localhost:8082/gw',
   headers: {
     'Content-Type': 'application/json;charset=UTF-8'
   },
-  data: {},
+  // data: {},
   timeout: 10000, // 设置超时时间
   withCredentials: true, // 携带凭证
   responseType: 'json'
-
 }

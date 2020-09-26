@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  import axios from "../request/apis";
+  import axios from "../request/apis/access-control-apis";
     export default {
         name: "test",
         methods: {

@@ -18,7 +18,8 @@
     "element-ui": "^2.13.0",
     "vuex": "^3.1.2",
     "vue-i18n": "^8.15.3",
-    "mockjs": "^1.1.0"
+    "mockjs": "^1.1.0",
+    "view-design": "^4.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.7.3",
